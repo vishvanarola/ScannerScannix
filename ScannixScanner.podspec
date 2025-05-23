@@ -1,9 +1,9 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ScannixScanner"
-  spec.version      = "1.0.0"
-  spec.summary      = "A short description of ScannixScanner."
-  spec.description  = ""
+  spec.version      = "1.0.1"
+  spec.summary      = "ScannixScanner for set up custom camera"
+  spec.description  = "ScannixScanner for set up custom camera"
   spec.homepage     = "https://github.com/vishvanarola/ScannerScannix.git"
 
   spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
