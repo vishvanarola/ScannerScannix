@@ -18,4 +18,5 @@ public class FrameworkManager {
         cameraVC.scanType = defaultSelection
         viewController.navigationController?.pushViewController(cameraVC, animated: true)
     }
+    
 }
